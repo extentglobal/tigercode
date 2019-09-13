@@ -14,6 +14,7 @@ function showCalendar() {
 
 getContent("footer");
 getContent("calendar");
+getContent("sponsors");
 
 $(function() {
  var eventStartDate = new Date(2019, 9, 27);
