@@ -12,7 +12,12 @@
 
 /* Block Titles
 -----------------------------------------------------------------*/
-
+.image-header-400 {
+	max-height: 400px;
+	img {
+		width: 100%;
+	}
+}
 .title-block {
 	padding: 2px 0 3px 20px;
 	border-left: 7px solid $theme-color;
