@@ -146,42 +146,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/gilbertinvitational\/attendees.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gilbertinvitational\/attendees.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/gilbertinvitational\/bandregistration.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gilbertinvitational\/bandregistration.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/gilbertinvitational\/gilbertinvitational.htm": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gilbertinvitational\/gilbertinvitational.htm",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/gilbertinvitational\/volunteers.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gilbertinvitational\/volunteers.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/images\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -226,6 +190,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/2019Mesquite_warmup.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 523692,
+		"inputAbbreviatedPath": "\/images\/2019Mesquite_warmup.jpg",
+		"outputAbbreviatedPath": "\/images\/2019Mesquite_warmup.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -233,6 +208,61 @@
 		"initialSize": 51413,
 		"inputAbbreviatedPath": "\/images\/3.jpg",
 		"outputAbbreviatedPath": "\/images\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/337_Unisex-Back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131239,
+		"inputAbbreviatedPath": "\/images\/337_Unisex-Back.jpg",
+		"outputAbbreviatedPath": "\/images\/337_Unisex-Back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/340_Boosters_at_band_camp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103973,
+		"inputAbbreviatedPath": "\/images\/340_Boosters_at_band_camp.jpg",
+		"outputAbbreviatedPath": "\/images\/340_Boosters_at_band_camp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/341_Boosters_at_band_camp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82499,
+		"inputAbbreviatedPath": "\/images\/341_Boosters_at_band_camp.jpg",
+		"outputAbbreviatedPath": "\/images\/341_Boosters_at_band_camp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/342_Boosters_at_band_camp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83813,
+		"inputAbbreviatedPath": "\/images\/342_Boosters_at_band_camp.jpg",
+		"outputAbbreviatedPath": "\/images\/342_Boosters_at_band_camp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/343_Boosters_at_band_camp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150805,
+		"inputAbbreviatedPath": "\/images\/343_Boosters_at_band_camp.jpg",
+		"outputAbbreviatedPath": "\/images\/343_Boosters_at_band_camp.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -314,6 +344,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/band_staff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107438,
+		"inputAbbreviatedPath": "\/images\/band_staff.jpg",
+		"outputAbbreviatedPath": "\/images\/band_staff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/band_staff_cropped.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146536,
+		"inputAbbreviatedPath": "\/images\/band_staff_cropped.jpg",
+		"outputAbbreviatedPath": "\/images\/band_staff_cropped.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/banner-curve.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -321,6 +373,28 @@
 		"initialSize": 3600,
 		"inputAbbreviatedPath": "\/images\/banner-curve.png",
 		"outputAbbreviatedPath": "\/images\/banner-curve.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/boosters_cropped.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88367,
+		"inputAbbreviatedPath": "\/images\/boosters_cropped.jpg",
+		"outputAbbreviatedPath": "\/images\/boosters_cropped.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/boosters_legacy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 216621,
+		"inputAbbreviatedPath": "\/images\/boosters_legacy.jpg",
+		"outputAbbreviatedPath": "\/images\/boosters_legacy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -508,6 +582,17 @@
 		"initialSize": 18023,
 		"inputAbbreviatedPath": "\/images\/clients\/9.png",
 		"outputAbbreviatedPath": "\/images\/clients\/9.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/clients\/jointheband_short.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157813,
+		"inputAbbreviatedPath": "\/images\/clients\/jointheband_short.jpg",
+		"outputAbbreviatedPath": "\/images\/clients\/jointheband_short.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -721,17 +806,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/clients\/santanford_grey.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 464851,
-		"inputAbbreviatedPath": "\/images\/clients\/santanford_grey.png",
-		"outputAbbreviatedPath": "\/images\/clients\/santanford_grey.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/cropped_horns.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -750,6 +824,17 @@
 		"initialSize": 252130,
 		"inputAbbreviatedPath": "\/images\/demo-parallax.jpg",
 		"outputAbbreviatedPath": "\/images\/demo-parallax.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/eScrip_online_mall.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39203,
+		"inputAbbreviatedPath": "\/images\/eScrip_online_mall.jpg",
+		"outputAbbreviatedPath": "\/images\/eScrip_online_mall.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1047,6 +1132,17 @@
 		"initialSize": 2041,
 		"inputAbbreviatedPath": "\/images\/footer-widget-logo@2x.png",
 		"outputAbbreviatedPath": "\/images\/footer-widget-logo@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/fundraisers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40916,
+		"inputAbbreviatedPath": "\/images\/fundraisers.jpg",
+		"outputAbbreviatedPath": "\/images\/fundraisers.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1645,6 +1741,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/jointheband_legacy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184509,
+		"inputAbbreviatedPath": "\/images\/jointheband_legacy.jpg",
+		"outputAbbreviatedPath": "\/images\/jointheband_legacy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/jointheband_short.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157813,
+		"inputAbbreviatedPath": "\/images\/jointheband_short.jpg",
+		"outputAbbreviatedPath": "\/images\/jointheband_short.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/logo-dark.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1876,6 +1994,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/logos\/Comfort_Dental.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167543,
+		"inputAbbreviatedPath": "\/images\/logos\/Comfort_Dental.jpg",
+		"outputAbbreviatedPath": "\/images\/logos\/Comfort_Dental.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/Comfort_Dental_grey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69170,
+		"inputAbbreviatedPath": "\/images\/logos\/Comfort_Dental_grey.jpg",
+		"outputAbbreviatedPath": "\/images\/logos\/Comfort_Dental_grey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/logos\/CompassEquipment.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1916,6 +2056,28 @@
 		"initialSize": 30041,
 		"inputAbbreviatedPath": "\/images\/logos\/DutchBrosCoffee_grey.png",
 		"outputAbbreviatedPath": "\/images\/logos\/DutchBrosCoffee_grey.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/Macdonald_Orthodontics.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8397,
+		"inputAbbreviatedPath": "\/images\/logos\/Macdonald_Orthodontics.png",
+		"outputAbbreviatedPath": "\/images\/logos\/Macdonald_Orthodontics.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logos\/Macdonald_Orthodontics_grey.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7174,
+		"inputAbbreviatedPath": "\/images\/logos\/Macdonald_Orthodontics_grey.png",
+		"outputAbbreviatedPath": "\/images\/logos\/Macdonald_Orthodontics_grey.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2360,6 +2522,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/Ron_Andre.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110566,
+		"inputAbbreviatedPath": "\/images\/Ron_Andre.jpg",
+		"outputAbbreviatedPath": "\/images\/Ron_Andre.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop\/337_Unisex-Back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131239,
+		"inputAbbreviatedPath": "\/images\/shop\/337_Unisex-Back.jpg",
+		"outputAbbreviatedPath": "\/images\/shop\/337_Unisex-Back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop\/Ladies-V-Back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145015,
+		"inputAbbreviatedPath": "\/images\/shop\/Ladies-V-Back.jpg",
+		"outputAbbreviatedPath": "\/images\/shop\/Ladies-V-Back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop\/Ladies-V-Front.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137015,
+		"inputAbbreviatedPath": "\/images\/shop\/Ladies-V-Front.jpg",
+		"outputAbbreviatedPath": "\/images\/shop\/Ladies-V-Front.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/shop\/small\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2378,6 +2584,105 @@
 		"initialSize": 2946,
 		"inputAbbreviatedPath": "\/images\/shop\/small\/6.jpg",
 		"outputAbbreviatedPath": "\/images\/shop\/small\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop\/small\/_0000_Tiger-Cub-Youth.jpg": {
+		"fileType": 16384,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15434,
+		"inputAbbreviatedPath": "\/images\/shop\/small\/_0000_Tiger-Cub-Youth.jpg",
+		"outputAbbreviatedPath": "\/images\/shop\/small\/_0000_Tiger-Cub-Youth.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop\/small\/_0001_Ladies-V-Back.jpg": {
+		"fileType": 16384,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19567,
+		"inputAbbreviatedPath": "\/images\/shop\/small\/_0001_Ladies-V-Back.jpg",
+		"outputAbbreviatedPath": "\/images\/shop\/small\/_0001_Ladies-V-Back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop\/small\/_0002_Ladies-V-Front.jpg": {
+		"fileType": 16384,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19152,
+		"inputAbbreviatedPath": "\/images\/shop\/small\/_0002_Ladies-V-Front.jpg",
+		"outputAbbreviatedPath": "\/images\/shop\/small\/_0002_Ladies-V-Front.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop\/small\/_0003_Unisex-Front.jpg": {
+		"fileType": 16384,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17819,
+		"inputAbbreviatedPath": "\/images\/shop\/small\/_0003_Unisex-Front.jpg",
+		"outputAbbreviatedPath": "\/images\/shop\/small\/_0003_Unisex-Front.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop\/small\/_0004_Unisex-Back.jpg": {
+		"fileType": 16384,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20399,
+		"inputAbbreviatedPath": "\/images\/shop\/small\/_0004_Unisex-Back.jpg",
+		"outputAbbreviatedPath": "\/images\/shop\/small\/_0004_Unisex-Back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop\/Tiger-Cub-Youth-Front-600x750.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34220,
+		"inputAbbreviatedPath": "\/images\/shop\/Tiger-Cub-Youth-Front-600x750.jpg",
+		"outputAbbreviatedPath": "\/images\/shop\/Tiger-Cub-Youth-Front-600x750.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop\/Unisex-Back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118869,
+		"inputAbbreviatedPath": "\/images\/shop\/Unisex-Back.jpg",
+		"outputAbbreviatedPath": "\/images\/shop\/Unisex-Back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop\/Unisex-Front.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109386,
+		"inputAbbreviatedPath": "\/images\/shop\/Unisex-Front.jpg",
+		"outputAbbreviatedPath": "\/images\/shop\/Unisex-Front.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shop_with_scrip.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10073,
+		"inputAbbreviatedPath": "\/images\/shop_with_scrip.jpg",
+		"outputAbbreviatedPath": "\/images\/shop_with_scrip.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2521,6 +2826,17 @@
 		"initialSize": 12710,
 		"inputAbbreviatedPath": "\/images\/tigerHead.png",
 		"outputAbbreviatedPath": "\/images\/tigerHead.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Trailer_ads.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 559189,
+		"inputAbbreviatedPath": "\/images\/Trailer_ads.jpg",
+		"outputAbbreviatedPath": "\/images\/Trailer_ads.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3282,6 +3598,22 @@
 		"outputAbbreviatedPath": "\/style.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/timeline.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/timeline.scss",
+		"outputAbbreviatedPath": "\/css\/timeline.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
@@ -61359,6 +61691,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/templates\/test.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/timeLine.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/timeLine.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
