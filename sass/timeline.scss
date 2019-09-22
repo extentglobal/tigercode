@@ -1,0 +1,116 @@
+/*Timeline*/
+
+.timeline-column {
+    position: relative;
+    margin-bottom: 80px;
+}
+
+.timeline-column .inner {
+    position: relative;
+    padding-left: 39px;
+    padding-bottom: 2px;
+}
+
+.timeline-column .col-header {
+    position: relative;
+    padding: 25px 0px 25px 64px;
+    min-height: 80px;
+    margin-bottom: 45px;
+}
+
+.timeline-column .col-header .icon-box2 {
+    position: absolute;
+    left: -36px;
+    top: 0px;
+    width: 92px;
+    height: 92px;
+    padding: 10px 10px;
+}
+
+.timeline-column .col-header .icon-box2 .icon-inner {
+    position: relative;
+    width: 52px;
+    height: 52px;
+}
+.timeline-column .col-header .icon-box2 .icon i {
+    color: $theme-color;
+}
+.timeline-column .col-header .icon-box2 .icon {
+    position: relative;
+    display: block;
+    width: 52px;
+    height: 57px;
+    text-align: center;
+    color: $theme-color;
+    background: #ffffff;
+    font-size: 24px;
+    line-height: 52px;
+    z-index: 1;
+}
+
+.timeline-column .col-header h2 {
+    position: relative;
+    font-size: 24px;
+    color: #333333;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 42px;
+}
+
+.timeline-column .timeline-block {
+    position: relative;
+    margin-bottom: 42px;
+}
+
+.timeline-column .timeline-block .inner-box {
+    position: relative;
+    padding-left: 30px;
+}
+
+.timeline-column .timeline-block .date {
+    position: relative;
+    display: inline-block;
+    margin-left: -15px;
+    margin-bottom: 16px;
+    line-height: 24px;
+    font-size: 14px;
+    color: #777777;
+    font-weight: 400;
+    padding: 0px 18px;
+}
+
+.timeline-column .timeline-block .date:before {
+    content: '';
+    position: absolute;
+    left: -21px;
+    top: 4px;
+    width: 11px;
+    height: 11px;
+    background: $theme-color;
+    border-radius: 50%;
+}
+
+.timeline-column .inner:before {
+    content: '';
+    position: absolute;
+    left: 38px;
+    top: 20px;
+    border-left: 1px solid #d0d0d0;
+    height: 100%;
+}
+
+.timeline-column .timeline-block h4 {
+    font-size: 16px;
+    color: #333333;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+
+.timeline-column .timeline-block .text {
+    font-size: 14px;
+}
+
+.timeline-column .timeline-block {
+    position: relative;
+    margin-bottom: 42px;
+}
