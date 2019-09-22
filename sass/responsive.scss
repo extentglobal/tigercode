@@ -1194,7 +1194,9 @@
 	 .swiper_wrapper:not(.full-screen):not(.canvas-slider-grid) .swiper-slide {
 		height: 400px !important;
 	}
-
+	.image-header-400 {
+		height: 300px;
+	}
 	.sidebar-widgets-wrap {
 		position: relative;
 		margin: 0 -20px -40px -20px;
@@ -1220,7 +1222,9 @@
 }
 
 @media only screen and (max-width: 767.98px) {
-
+.image-header-400 {
+		height: 200px;
+	}
 	body {
 		padding: 0 !important;
 	}
