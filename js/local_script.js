@@ -3,11 +3,19 @@ function getContent(filename) {
  var target = "#" + filename;
  $(target).load(path);
 }
+
+
 function closeCalendar() {
  $("#calendar").hide();
 }
 function showCalendar() {
  $("#calendar").show();
+}
+function show(target) {
+	$(target).show();
+}
+function hide(target) {
+	$(target).hide();
 }
 function showInvitationalTimeline() {
 	$("#invitationalTimeline").show();
@@ -17,10 +25,17 @@ function closeInvitationalTimeline() {
 	$("#invitationalTimeline").hide();
 	$("#showEventsTimeline").show();
 }
-getContent("footer");
+
 getContent("calendar");
-getContent("sponsors");
+
 $(function() {
- var eventStartDate = new Date(2019, 9, 26);
- $("#event-countdown").countdown({until: eventStartDate});
+	// var h = window.innerheight;
+	// console.log('height');
+	// $("iframe.smugMug").css('height', h);
+ 	var eventStartDate = new Date(2019, 9, 26);
+ 	$("#event-countdown").countdown({until: eventStartDate});
+	getContent("footer");
+	getContent('cutTime_instructions');
+	getContent('sponsors');
+
 });

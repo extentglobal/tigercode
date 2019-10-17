@@ -2,7 +2,9 @@
 	helpers.scss
 -----------------------------------------------------------------------------------*/
 
-#calendar { display: none; }
+#calendar { display: none; };
+#cutTime_instructions { display: none };
+
 .control {
 	width: 100%;
 }

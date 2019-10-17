@@ -20946,6 +20946,9 @@ blockquote {
 #calendar {
   display: none; }
 
+#cutTime_instructions {
+  display: none; }
+
 .control {
   width: 100%; }
 
