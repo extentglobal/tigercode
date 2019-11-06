@@ -195,11 +195,22 @@ span.middot {
 
 .nothidden { display: block !important; }
 
+.control { width: 100%; }
 .inline-block {
 	float: none !important;
 	display: inline-block !important;
 }
 
+.image-button-circle-sm {
+	width: 30px;
+  border-radius: 20px;
+  border: 2px solid #ccc;
+  padding: 4px;
+}
+
+.image-button-circle-sm:hover {
+  border-color: green;
+}
 .center { text-align: center !important; }
 
 .divcenter {

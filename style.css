@@ -5793,9 +5793,6 @@ body.side-panel-open:not(.device-xs):not(.device-sm):not(.device-md) .body-overl
 	Layouts.scss
 
 -----------------------------------------------------------------*/
-#calendar {
-  padding: 120px 0; }
-
 /* ----------------------------------------------------------------
 	Sections
 -----------------------------------------------------------------*/
@@ -20425,6 +20422,9 @@ h5, .list-sm {
 h6, .list-xs {
   font-size: 12px; }
 
+.text-theme-color {
+  color: #e1a200; }
+
 h4 {
   font-weight: 600; }
 
@@ -21263,9 +21263,21 @@ span.middot {
 .nothidden {
   display: block !important; }
 
+.control {
+  width: 100%; }
+
 .inline-block {
   float: none !important;
   display: inline-block !important; }
+
+.image-button-circle-sm {
+  width: 30px;
+  border-radius: 20px;
+  border: 2px solid #ccc;
+  padding: 4px; }
+
+.image-button-circle-sm:hover {
+  border-color: green; }
 
 .center {
   text-align: center !important; }
