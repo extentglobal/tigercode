@@ -194,7 +194,17 @@
           
           <div class="col_one_third">
             <h2>Online</h2>
-            <a href="https://www.paypal.com/webapps/shoppingcart?flowlogging_id=ac6e9ef52c53&mfid=1569364486970_ac6e9ef52c53#/checkout/openButton" target="_blank"><img class="fleft mRight" src="/images/Paypal-click-here.gif" alt="PayPal"></a>Payments can be made through PayPal.  You don't have to have a PayPal account to use this method.  When checking out, please reference the band program/event and the student's name.  Please note, PayPal charges a 2.5% processing fee.
+            <!-- <a href="https://www.paypal.com/webapps/shoppingcart?flowlogging_id=ac6e9ef52c53&mfid=1569364486970_ac6e9ef52c53#/checkout/openButton" target="_blank"><img class="fleft mRight" src="/images/Paypal-click-here.gif" alt="PayPal"></a> -->
+
+          <form method="post" action="https://www.paypal.com/cgi-bin/webscr" target="_blank">
+            <input type="hidden" name="cmd" value="_donations"><input type="hidden" name="business" value="GBBTigerpride@live.com"><input type="hidden" name="item_name" value="Gilbert Band Booster (GBB)"><input type="hidden" name="currency_code" value="USD"><input type="hidden" name="return" value=""><input type="hidden" name="tax" value="0"><input type="hidden" name="lc" value="US"><input type="hidden" name="no_shipping" value="0"><input type="hidden" name="no_note" value="1"><input type="hidden" name="bn" value="NetworkSolutions_LeapCafe_PPD">
+            <div class="col_full text-center">
+              
+              <input type="submit" class="button button-rounded" name="submit" alt="PayPal" border="0" value="Make Payment">
+            </div>
+           
+          </form>
+            Payments can be made through PayPal.  You don't have to have a PayPal account to use this method.  When checking out, please reference the band program/event and the student's name.  Please note, PayPal charges a 2.5% processing fee.
           </div>
           
           
