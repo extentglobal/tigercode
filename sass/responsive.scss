@@ -1895,7 +1895,11 @@
 	.error404-wrap .error404 { font-size: 160px; }
 
 }
-
+@media (max-width: 500px) {
+.google-form-width {
+	width: 300px !important;
+	}
+}
 @media (max-width: 575.98px) {
 
 	.container,

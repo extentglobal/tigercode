@@ -13793,6 +13793,9 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   .error404,
   .error404-wrap .error404 {
     font-size: 160px; } }
+@media (max-width: 500px) {
+  .google-form-width {
+    width: 300px !important; } }
 @media (max-width: 575.98px) {
   .container,
   #header.full-header .container,
@@ -20948,6 +20951,9 @@ blockquote {
 
 #cutTime_instructions {
   display: none; }
+
+.google-form-width {
+  width: 400px; }
 
 .control {
   width: 100%; }
